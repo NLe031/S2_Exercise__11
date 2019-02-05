@@ -4,8 +4,7 @@
    Tutorial Case
 
    Countdown Clock
-   Author: 
-   Date:   
+   Author: Nicholas Le
+   Date: 02/05/19  
 
 */
-
