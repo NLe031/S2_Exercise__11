@@ -1,4 +1,4 @@
-// "use strict";
+"use strict";
 /*
    New Perspectives on HTML5 and CSS3, 7th Edition
    Tutorial 9
@@ -12,4 +12,4 @@
 
 // One of my favorite book series is the chronicles of Nick
 
-window.alert("welcome to tulsa");
+// window.alert("welcome to tulsa");
